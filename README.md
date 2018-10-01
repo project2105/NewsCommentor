@@ -1,8 +1,8 @@
 # NewsCommentor
 
-A news scrapping app for the WSJ
+A news scrapping app for Tech Crunch
 
-![WSJ image](/public/assets/wsj.png)
+![WSJ image](/public/assets/tc.png)
 
 
 ## Live Link 
@@ -22,8 +22,6 @@ Node.js
 NPM packages:
 
   express
-  
-  express-handlebars
   
   mongoose
   
