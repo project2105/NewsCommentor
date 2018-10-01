@@ -7,7 +7,7 @@ A news scrapping app for Tech Crunch
 
 ## Live Link 
 
-not yet
+https://mysterious-tor-29929.herokuapp.com/
 
 
 ## Built With
@@ -40,5 +40,4 @@ https://www.linkedin.com/in/paul-jensen-9b1a6311/
 https://github.com/project2105
 
 ## Acknowledgments
-
-Wall Street Journal online - please try to be better
+Tech Crunch
