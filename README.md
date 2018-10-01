@@ -7,7 +7,7 @@ A news scrapping app for Tech Crunch
 
 ## Live Link 
 
-not yet
+https://mysterious-tor-29929.herokuapp.com/
 
 
 ## Built With
