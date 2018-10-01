@@ -23,8 +23,6 @@ NPM packages:
 
   express
   
-  express-handlebars
-  
   mongoose
   
   body-parser
